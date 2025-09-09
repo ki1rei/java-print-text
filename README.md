@@ -31,7 +31,8 @@ java latihan14
 
 ## 🖨️ Output 
 
-``` Halo Nama Saya Firstyara Putri
+```
+Halo Nama Saya Firstyara Putri
 Belajar Java itu Mudah!
 Semakin sering mencoba, semakin jago
 ```
