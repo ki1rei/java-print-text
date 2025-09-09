@@ -14,3 +14,24 @@ public class latihan14 {
         System.out.println("Semakin sering mencoba, semakin jago");
     }
 }
+```
+## 📥 Cara Menjalankan
+
+### 1. Kompilasi Program :
+
+``` java
+javac latihan14.java
+```
+
+### 2. Jalankan Program :
+
+``` java
+java latihan14
+```
+
+## 🖨️ Output 
+
+``` Halo Nama Saya Firstyara Putri
+Belajar Java itu Mudah!
+Semakin sering mencoba, semakin jago
+```
